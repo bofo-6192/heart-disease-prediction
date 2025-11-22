@@ -3,7 +3,7 @@ A machine learning model that predicts heart disease presence using patient data
 
 Dataset:
   
-    Source: UCI Heart Disease Dataset
+  Source: UCI Heart Disease Dataset
   
   Format: CSV
   
